@@ -51,6 +51,11 @@ public class Customer {
         System.out.println(name);
         System.out.println(zip);
         System.out.println(customerId);
+
+    }
+    public void details(){
+
+        System.out.println(name);
     }
 
 

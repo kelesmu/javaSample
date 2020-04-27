@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0fe2c501-a459-4322-bfd0-f0ab2a71d629" name="Default Changelist" comment="" />
+    <list default="true" id="0fe2c501-a459-4322-bfd0-f0ab2a71d629" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Constructor/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Constructor/Customer.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +19,14 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -176,6 +187,10 @@
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="249" y="94" key="SettingsEditor/0.23.1440.826@0.23.1440.826" timestamp="1585414937281" />
+    <state x="554" y="379" key="VCS.ChangelistChooser" timestamp="1588017167182">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="554" y="379" key="VCS.ChangelistChooser/0.23.1440.826@0.23.1440.826" timestamp="1588017167182" />
     <state x="370" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1586897026232">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
