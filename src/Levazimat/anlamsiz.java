@@ -1,3 +1,5 @@
+package Levazimat;
+
 import java.util.Arrays;
 import java.util.HashMap;
 
@@ -29,9 +31,9 @@ arrRemove(originalArray,tobeRemoved);
      *   Returned array:  {2, 4, 3, 6}
      */
     public static void arrRemove(int[] originalNumbers, int toBeRemoved){
-        //yeni olusturulacak arrayin size ini bulmak icin cikarilacak sayinin kac defa gectigini buluyoruz
-        //daha sonra yeni arrayi normali-targetCount olarak olusturuyoruz.
-        //sonra target disindaki degerleri yeni arraya koyuyoruz.
+        //Levazimat.yeni olusturulacak arrayin size ini bulmak icin cikarilacak sayinin kac defa gectigini buluyoruz
+        //daha sonra Levazimat.yeni arrayi normali-targetCount olarak olusturuyoruz.
+        //sonra target disindaki degerleri Levazimat.yeni arraya koyuyoruz.
         int count=0;
         for (int i:originalNumbers){
             if(i==toBeRemoved){

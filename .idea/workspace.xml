@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fe2c501-a459-4322-bfd0-f0ab2a71d629" name="Default Changelist" comment="intellijden">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSample/Constructor/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSample/Constructor/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSample/Levazimat/levazim1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSample/Levazimat/levazim1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSample/META-INF/JavaSample.kotlin_module" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/ChildPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/ParentPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayOrnek1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Levazimat/ArrayOrnek1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Arrays/ArrayHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/ArrayHomework.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Constructor/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Constructor/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AssertOrnek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Levazimat/AssertOrnek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Constructor/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Constructor/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Levazimat/Operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ornek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Levazimat/Ornek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PiramitVeFibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Levazimat/PiramitVeFibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pyramit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Levazimat/Pyramit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/anlamsiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Levazimat/anlamsiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yeni.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Levazimat/yeni.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +42,11 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1ZKXEHbclJJBcYlG5VUzzRhgKF9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="autoscrollToSource" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -148,6 +157,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="intellijden" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="300" y="123" key="#Scopes" timestamp="1588128553531">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="300" y="123" key="#Scopes/0.23.1440.826@0.23.1440.826" timestamp="1588128553531" />
     <state x="438" y="192" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1585064838649">
       <screen x="0" y="23" width="1440" height="826" />
     </state>

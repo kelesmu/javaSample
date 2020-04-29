@@ -24,7 +24,7 @@ public class MainPage {
 
         c1.customerDetails();
         System.out.println("---------");
-        c2.setName("yeni isim");
+        c2.setName("Levazimat.yeni isim");
         c2.customerDetails();
 
    // Customer.address="nnsmsm";

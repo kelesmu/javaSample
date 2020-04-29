@@ -107,7 +107,7 @@ public class ArrayHomework {
          *
          * create for loop. and if loop.
      */
-          //Once yeni olusturacagimiz Arrayin lenght ini buluyoruz. Bunun icin atacagimiz sayinin kac defa gectigini
+          //Once Levazimat.yeni olusturacagimiz Arrayin lenght ini buluyoruz. Bunun icin atacagimiz sayinin kac defa gectigini
     //belirleyip buna gore size i belirliyoruz. Ardindan
 
           public static void removeValue(int[] originalArray, int toBeRemoved){

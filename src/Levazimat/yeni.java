@@ -1,3 +1,5 @@
+package Levazimat;
+
 import org.junit.Test;
 
 public class yeni {
