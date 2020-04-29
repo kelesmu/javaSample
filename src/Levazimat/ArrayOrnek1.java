@@ -1,3 +1,5 @@
+package Levazimat;
+
 import java.util.Arrays;
 
 public class ArrayOrnek1 {

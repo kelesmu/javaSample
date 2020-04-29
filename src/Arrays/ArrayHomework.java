@@ -56,8 +56,7 @@ public class ArrayHomework {
                  }
              }
              studentName = names[maxNumIndex];
-             String result = "Student " + studentName + ", get the maximum score of " + value + " at the class";
-             return result;
+             return "Student " + studentName + ", get the maximum score of " + value + " at the class";
 
 
          }
@@ -101,14 +100,14 @@ public class ArrayHomework {
          *
          *   Create a method using Java to remove a specific value from a given int array.
          *   Original array: {32, 14, 24, 98, 24, 56, 148, 24, 78, 24}    Remove: 24
-         *   Returned array: {32, 14, 98, 56, 148, 78}
+  *   Returned array: {32, 14, 98, 56, 148, 78}
          *
          *   Input array:     {1, 2, 4, 3, 1, 6, 1}    Remove: 1
          *   Returned array:  {2, 4, 3, 6}
          *
          * create for loop. and if loop.
      */
-          //Once yeni olusturacagimiz Arrayin lenght ini buluyoruz. Bunun icin atacagimiz sayinin kac defa gectigini
+          //Once Levazimat.yeni olusturacagimiz Arrayin lenght ini buluyoruz. Bunun icin atacagimiz sayinin kac defa gectigini
     //belirleyip buna gore size i belirliyoruz. Ardindan
 
           public static void removeValue(int[] originalArray, int toBeRemoved){
@@ -123,7 +122,7 @@ public class ArrayHomework {
 
               for (int num : originalArray){
                   if(num != toBeRemoved){
-                 newArr[index]=num;
+                      newArr[index]=num;
                  index++;
                   }
               }
