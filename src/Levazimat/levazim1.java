@@ -40,9 +40,12 @@ public class levazim1 {
             for (int j = i + 1; j < numbers.length; j++) {
                 if (numbers[i] > numbers[j]) {
                     temp = numbers[i];
+
                     numbers[i] = numbers[j];
                     numbers[j] = temp; } } }
-        System.out.println(Arrays.toString(numbers)); }
+        System.out.println(Arrays.toString(numbers));
+
+    }
 
    /* Create a method using Java to remove a specific value from a given int array.
             *   Original array: {32, 14, 24, 98, 24, 56, 148, 24, 78, 24}    Remove: 24

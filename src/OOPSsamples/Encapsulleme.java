@@ -2,10 +2,15 @@ package OOPSsamples;
 
 public class Encapsulleme {
 
-
+    //when we create an object we can reach only public and protected variables and methods of that class
+    //But we can't access private and static variables and methods because private is not visible from other classes and
+    // static method/variables belong to class not instance.
     private int age;
     private String name;
     private String surName;
+    int year=2020;
+    protected String name1 =null;
+    static String country = "Turkiye";
 
     public String getName() {
         return name;
