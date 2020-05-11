@@ -10,6 +10,8 @@ public class ChildPage extends ParentPage{
     public void childMethod1(){
 
         System.out.println("This is child method1");
+        System.out.println("This is child method1");
+
     }
 
     public void childMethod2(){
