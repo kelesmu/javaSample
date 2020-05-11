@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fe2c501-a459-4322-bfd0-f0ab2a71d629" name="Default Changelist" comment="intellijden">
-      <change afterPath="$PROJECT_DIR$/src/OOPSsamples/Encapsuations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSample/ArrayOrnek1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSample/Arrays/ArrayHomework.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSample/Arrays/ArrayHomework.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSample/AssertOrnek.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSample/Constructor/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSample/Constructor/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSample/Constructor/MainPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSample/Constructor/MainPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSample/Levazimat/levazim1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSample/Levazimat/levazim1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSample/OOPSsamples/Encapsulleme.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSample/OOPSsamples/Encapsulleme.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSample/Operators.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSample/Ornek.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSample/PiramitVeFibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSample/Pyramit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSample/anlamsiz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSample/yeni.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Constructor/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Constructor/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Constructor/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Constructor/MainPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/ChildPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/ChildPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/ParentPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/ParentPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Levazimat/anlamsiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Levazimat/anlamsiz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Levazimat/levazim1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Levazimat/levazim1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Levazimat/yeni.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Levazimat/yeni.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPSsamples/Encapsulleme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPSsamples/Encapsulleme.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
