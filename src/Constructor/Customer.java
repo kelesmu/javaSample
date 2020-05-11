@@ -1,5 +1,8 @@
 package Constructor;
 
+import java.util.Arrays;
+import java.util.Collections;
+
 public class Customer {
 
      String name;
@@ -43,6 +46,7 @@ public class Customer {
         this.customerId=customerId;
         this.zip=zip;
 
+
     }
 
 
@@ -56,6 +60,10 @@ public class Customer {
     public void details(){
 
         System.out.println(name);
+    }
+
+    public static void staticMethod(){
+        System.out.println("This is static method");
     }
 
 }

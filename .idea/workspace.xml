@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fe2c501-a459-4322-bfd0-f0ab2a71d629" name="Default Changelist" comment="intellijden">
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/ChildPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/ParentPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayOrnek1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Levazimat/ArrayOrnek1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/ArrayHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/ArrayHomework.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AssertOrnek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Levazimat/AssertOrnek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Constructor/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Constructor/MainPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Levazimat/Operators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ornek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Levazimat/Ornek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PiramitVeFibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Levazimat/PiramitVeFibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pyramit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Levazimat/Pyramit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/anlamsiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Levazimat/anlamsiz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yeni.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Levazimat/yeni.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,13 +52,13 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.levazim1">
-    <configuration name="ArraySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.ArraySort" />
+  <component name="RunManager" selected="Application.yeni">
+    <configuration name="ChildPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inheritance.ChildPage" />
       <module name="JavaSample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompareArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.CompareArray" />
+    <configuration name="ParentPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inheritance.ParentPage" />
       <module name="JavaSample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Constructor.MainPage" />
+    <configuration name="anlamsiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Levazimat.anlamsiz" />
       <module name="JavaSample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Constructor.*" />
+          <option name="PATTERN" value="Levazimat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="yeniArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.yeniArray" />
+    <configuration name="yeni" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Levazimat.yeni" />
       <module name="JavaSample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Levazimat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.yeni" />
+        <item itemvalue="Application.ParentPage" />
+        <item itemvalue="Application.ChildPage" />
         <item itemvalue="Application.levazim1" />
-        <item itemvalue="Application.MainPage" />
-        <item itemvalue="Application.CompareArray" />
-        <item itemvalue="Application.yeniArray" />
-        <item itemvalue="Application.ArraySort" />
+        <item itemvalue="Application.anlamsiz" />
       </list>
     </recent_temporary>
   </component>
@@ -169,10 +158,10 @@
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="428" y="302" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.1440.826@0.23.1440.826" timestamp="1588039700461" />
-    <state x="553" y="150" key="#com.intellij.ide.util.MemberChooser" timestamp="1587727445846">
+    <state x="707" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1588358015040">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state x="553" y="150" key="#com.intellij.ide.util.MemberChooser/0.23.1440.826@0.23.1440.826" timestamp="1587727445846" />
+    <state x="707" y="139" key="#com.intellij.ide.util.MemberChooser/0.23.1440.826@0.23.1440.826" timestamp="1588358015040" />
     <state x="503" y="333" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585429803406">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
@@ -181,22 +170,22 @@
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="335" y="59" key="CommitChangelistDialog2/0.23.1440.826@0.23.1440.826" timestamp="1588040134640" />
-    <state width="1358" height="199" key="GridCell.Tab.0.bottom" timestamp="1588040134677">
+    <state width="1395" height="199" key="GridCell.Tab.0.bottom" timestamp="1589093852380">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="1358" height="199" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1588040134677" />
-    <state width="1358" height="199" key="GridCell.Tab.0.center" timestamp="1588040134676">
+    <state width="1395" height="199" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1589093852380" />
+    <state width="1395" height="199" key="GridCell.Tab.0.center" timestamp="1589093852379">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="1358" height="199" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1588040134676" />
-    <state width="1358" height="199" key="GridCell.Tab.0.left" timestamp="1588040134676">
+    <state width="1395" height="199" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1589093852379" />
+    <state width="1395" height="199" key="GridCell.Tab.0.left" timestamp="1589093852378">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="1358" height="199" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1588040134676" />
-    <state width="1358" height="199" key="GridCell.Tab.0.right" timestamp="1588040134677">
+    <state width="1395" height="199" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1589093852378" />
+    <state width="1395" height="199" key="GridCell.Tab.0.right" timestamp="1589093852379">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="1358" height="199" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1588040134677" />
+    <state width="1395" height="199" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1589093852379" />
     <state width="1358" height="249" key="GridCell.Tab.1.bottom" timestamp="1586894508111">
       <screen x="0" y="23" width="1440" height="826" />
     </state>

@@ -5,7 +5,6 @@ import java.util.HashMap;
 
 public class anlamsiz {
 
-
     public static void main (String[] args) {
 
         System.out.println(isPrime(23));
@@ -18,6 +17,7 @@ arrRemove(originalArray,tobeRemoved);
         System.out.println(ters("Zekavet"));
         searchItem("Juice");
         System.out.println(isPalindrome("racecar"));
+
     }
 
 
