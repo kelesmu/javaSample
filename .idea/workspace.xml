@@ -2,8 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fe2c501-a459-4322-bfd0-f0ab2a71d629" name="Default Changelist" comment="intellijden">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/AmazonQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/MapSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JDBC/DataBase1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Levazimat/ScannerClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSample/Arrays/ArrayOrnekleri.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSample/Arrays/ArrayOrnekleri.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSample/Arrays/yeniArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSample/Arrays/yeniArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSample/Collections/HashSetSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSample/Collections/HashSetSample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSample/Inheritance/ChildPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSample/Inheritance/ChildPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSample/Inheritance/ParentPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSample/Inheritance/ParentPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSample/Levazimat/anlamsiz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSample/Levazimat/anlamsiz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSample/Levazimat/yeni.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSample/Levazimat/yeni.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSample/META-INF/JavaSample.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSample/StringAlistirmalari/HomeworkString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSample/StringAlistirmalari/HomeworkString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSample/StringAlistirmalari/Reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSample/StringAlistirmalari/Reverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSample/StringAlistirmalari/StringOrnekleri.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSample/StringAlistirmalari/StringOrnekleri.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/ArrayOrnekleri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/ArrayOrnekleri.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/yeniArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/yeniArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collections/HashSetSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/HashSetSample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Inheritance/ChildPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/ChildPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/ParentPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/ParentPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Levazimat/anlamsiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Levazimat/anlamsiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Levazimat/yeni.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Levazimat/yeni.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringAlistirmalari/HomeworkString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringAlistirmalari/HomeworkString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringAlistirmalari/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringAlistirmalari/Reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringAlistirmalari/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringAlistirmalari/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringAlistirmalari/StringOrnekleri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringAlistirmalari/StringOrnekleri.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +48,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="temp" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,7 +78,33 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.yeni">
+  <component name="RunManager" selected="Application.yeniArray">
+    <configuration name="AmazonQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.AmazonQuestion" />
+      <module name="JavaSample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayOrnekleri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.ArrayOrnekleri" />
+      <module name="JavaSample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ChildPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Inheritance.ChildPage" />
       <module name="JavaSample" />
@@ -67,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParentPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inheritance.ParentPage" />
+    <configuration name="MapSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.MapSample" />
       <module name="JavaSample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Inheritance.*" />
+          <option name="PATTERN" value="Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,38 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="anlamsiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Levazimat.anlamsiz" />
+    <configuration name="yeniArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.yeniArray" />
       <module name="JavaSample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Levazimat.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="levazim1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Levazimat.levazim1" />
-      <module name="JavaSample" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Levazimat.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="yeni" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Levazimat.yeni" />
-      <module name="JavaSample" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Levazimat.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.yeni" />
-        <item itemvalue="Application.ParentPage" />
+        <item itemvalue="Application.yeniArray" />
+        <item itemvalue="Application.ArrayOrnekleri" />
+        <item itemvalue="Application.MapSample" />
+        <item itemvalue="Application.AmazonQuestion" />
         <item itemvalue="Application.ChildPage" />
-        <item itemvalue="Application.levazim1" />
-        <item itemvalue="Application.anlamsiz" />
       </list>
     </recent_temporary>
   </component>
@@ -151,42 +176,34 @@
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="300" y="123" key="#Scopes/0.23.1440.826@0.23.1440.826" timestamp="1588128553531" />
-    <state x="438" y="192" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1585064838649">
-      <screen x="0" y="23" width="1440" height="826" />
-    </state>
-    <state x="438" y="192" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.826@0.23.1440.826" timestamp="1585064838649" />
     <state x="428" y="302" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1588039700461">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="428" y="302" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.1440.826@0.23.1440.826" timestamp="1588039700461" />
-    <state x="707" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1588358015040">
+    <state x="707" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1594661943438">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state x="707" y="139" key="#com.intellij.ide.util.MemberChooser/0.23.1440.826@0.23.1440.826" timestamp="1588358015040" />
-    <state x="503" y="333" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585429803406">
-      <screen x="0" y="23" width="1440" height="826" />
-    </state>
-    <state x="503" y="333" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.826@0.23.1440.826" timestamp="1585429803406" />
+    <state x="707" y="139" key="#com.intellij.ide.util.MemberChooser/0.23.1440.826@0.23.1440.826" timestamp="1594661943438" />
     <state x="335" y="59" key="CommitChangelistDialog2" timestamp="1588040134640">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="335" y="59" key="CommitChangelistDialog2/0.23.1440.826@0.23.1440.826" timestamp="1588040134640" />
-    <state width="1395" height="199" key="GridCell.Tab.0.bottom" timestamp="1589093852380">
+    <state width="1395" height="208" key="GridCell.Tab.0.bottom" timestamp="1595007900837">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="1395" height="199" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1589093852380" />
-    <state width="1395" height="199" key="GridCell.Tab.0.center" timestamp="1589093852379">
+    <state width="1395" height="208" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1595007900837" />
+    <state width="1395" height="208" key="GridCell.Tab.0.center" timestamp="1595007900835">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="1395" height="199" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1589093852379" />
-    <state width="1395" height="199" key="GridCell.Tab.0.left" timestamp="1589093852378">
+    <state width="1395" height="208" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1595007900835" />
+    <state width="1395" height="208" key="GridCell.Tab.0.left" timestamp="1595007900834">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="1395" height="199" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1589093852378" />
-    <state width="1395" height="199" key="GridCell.Tab.0.right" timestamp="1589093852379">
+    <state width="1395" height="208" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1595007900834" />
+    <state width="1395" height="208" key="GridCell.Tab.0.right" timestamp="1595007900836">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="1395" height="199" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1589093852379" />
+    <state width="1395" height="208" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1595007900836" />
     <state width="1358" height="249" key="GridCell.Tab.1.bottom" timestamp="1586894508111">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
@@ -203,26 +220,18 @@
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1358" height="249" key="GridCell.Tab.1.right/0.23.1440.826@0.23.1440.826" timestamp="1586894508111" />
-    <state x="249" y="94" key="SettingsEditor" timestamp="1585414937281">
-      <screen x="0" y="23" width="1440" height="826" />
-    </state>
-    <state x="249" y="94" key="SettingsEditor/0.23.1440.826@0.23.1440.826" timestamp="1585414937281" />
     <state x="554" y="379" key="VCS.ChangelistChooser" timestamp="1588017167182">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="554" y="379" key="VCS.ChangelistChooser/0.23.1440.826@0.23.1440.826" timestamp="1588017167182" />
-    <state x="370" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1586897026232">
+    <state x="370" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1593102560582">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state x="370" y="290" key="com.intellij.ide.util.TipDialog/0.23.1440.826@0.23.1440.826" timestamp="1586897026232" />
-    <state x="466" y="358" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585064495251">
+    <state x="370" y="290" key="com.intellij.ide.util.TipDialog/0.23.1440.826@0.23.1440.826" timestamp="1593102560582" />
+    <state x="151" y="152" key="new project wizard" timestamp="1591329954047">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state x="466" y="358" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.826@0.23.1440.826" timestamp="1585064495251" />
-    <state x="405" y="173" width="670" height="676" key="search.everywhere.popup" timestamp="1585666327755">
-      <screen x="0" y="23" width="1440" height="826" />
-    </state>
-    <state x="405" y="173" width="670" height="676" key="search.everywhere.popup/0.23.1440.826@0.23.1440.826" timestamp="1585666327755" />
+    <state x="151" y="152" key="new project wizard/0.23.1440.826@0.23.1440.826" timestamp="1591329954047" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JavaSample$levazim1.ic" NAME="levazim1 Coverage Results" MODIFIED="1588030227774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
