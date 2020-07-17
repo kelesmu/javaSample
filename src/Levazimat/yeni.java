@@ -20,7 +20,7 @@ public class yeni {
     public static void main(String[] args) {
 
         System.out.println(toJadenCase("How can mirrors be real if our eyes aren't real"));
-
+        System.out.println(solution(10));
     }
 
     public static String toJadenCase(String phrase) {
@@ -31,6 +31,18 @@ public class yeni {
         }
         return newStr.substring(0,newStr.length()-1);
 
+    }
+
+    public static int solution(int number) {
+        int sum=0;
+
+        for (int i=0; i<number; i++){
+            if(i%3==0 || i%5==0){
+                sum= sum+i;
+            }
+        }
+
+        return sum;
     }
 
 

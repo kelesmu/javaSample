@@ -4,6 +4,15 @@ import java.util.Arrays;
 import java.util.HashMap;
 
 public class anlamsiz {
+    private int age;
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
 
     public static void main (String[] args) {
 

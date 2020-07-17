@@ -6,7 +6,7 @@ public class ReverseString {
         String name= "Ahmet";
         String reversed="";
         for(int i=name.length()-1; i>=0; i--){
-         reversed= reversed+ name.charAt(i);
+         reversed += name.charAt(i);
         }
         System.out.println(reversed);
 

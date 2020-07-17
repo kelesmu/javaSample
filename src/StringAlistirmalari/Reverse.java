@@ -5,8 +5,8 @@ public class Reverse {
 
     public static void main(String[] args) {
         //Once bir tane String yaziyoruz. Altina da ters cevrilecek stringleri koymak icin bos string declare ediyoruz.
-        String abc= "Sezai";
-        String dummy="";
+        String abc= "Hello";
+        String reversedString="";
 
         //for loopta i indeksi tek tek tum karakterlerin uzerinde gezinir.
         //bunu sondan baslatirsak ilk son harfi alir. Bunun icin stringin boyutunu tespit etmek ici abc.lenght diyoruz
@@ -17,9 +17,9 @@ public class Reverse {
             //i tum indeskleri gezmemizi sagliyo ama oradaki her karakterin degerini almak icin charAt metodunu kullaniyoruz.
             //boylece mubarek seza kelimesini tersten yazmis oluyoruz.
             //yahoonun interviewinde sormuslar
-            dummy= dummy+abc.charAt(i);
+            reversedString += abc.charAt(i);
         }
-        System.out.println(dummy);
+        System.out.println(reversedString);
 
     }
 }
